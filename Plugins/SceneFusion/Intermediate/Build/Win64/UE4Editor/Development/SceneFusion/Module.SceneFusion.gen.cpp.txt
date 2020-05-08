@@ -1,0 +1,112 @@
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Definitions.SceneFusion.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\SceneFusion.init.gen.cpp
+D:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfAvatarActor.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Actors/sfAvatarActor.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfAvatarActor.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfBodyActor.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Actors/sfBodyActor.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfBodyActor.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfDecalActor.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Actors/sfDecalActor.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DecalActor.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalActor.generated.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ArrowComponent.generated.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfDecalActor.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfFlashlightComponent.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Components/sfFlashlightComponent.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SpotLightComponent.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalLightComponent.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLightComponent.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLightComponent.generated.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfFlashlightComponent.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfLandscapeInfoMapHack.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Objects/sfLandscapeInfoMapHack.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Landscape\Classes\LandscapeInfo.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeInfo.generated.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfLandscapeInfoMapHack.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfLockComponent.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Components/sfLockComponent.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\ThirdParty\SceneFusionAPI\Includes\sfUser.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\ThirdParty\SceneFusionAPI\Includes\ksColor.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\ThirdParty\SceneFusionAPI\Includes\Exports.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfLockComponent.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfMissingActor.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Actors/sfMissingActor.h
+e:\teamproject\sparajj_world\plugins\scenefusion\source\scenefusion\private\actors\../sfMissingObject.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfMissingObject.generated.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfMissingActor.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfMissingComponent.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Components/sfMissingComponent.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfMissingComponent.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfMissingObject.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfMissingSceneComponent.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Components/sfMissingSceneComponent.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfMissingSceneComponent.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfReferenceTracker.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Objects/sfReferenceTracker.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfReferenceTracker.generated.h
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Inc\SceneFusion\sfUndoHook.gen.cpp
+E:\TeamProject\SPARAJJ_World\Plugins\SceneFusion\Source\SceneFusion/Private/Objects/sfUndoHook.h
+e:\teamproject\sparajj_world\plugins\scenefusion\intermediate\build\win64\ue4editor\inc\scenefusion\sfUndoHook.generated.h
