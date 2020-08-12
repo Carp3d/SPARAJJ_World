@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "SceneFusion",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
